@@ -12,7 +12,8 @@ public class TestBase {
         Configuration.startMaximized = true;
     }
 
-    public void openUrl() {
+    public void openUrlXlsx() {
         open("https://rielta.ru/skachat-prajs.html");
     }
 }
+
